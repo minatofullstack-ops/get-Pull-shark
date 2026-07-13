@@ -1,2 +1,2 @@
 # get-Pull-shark
-I will get Pull Shark badge without mistakes.//
+I will get Pull Shark badge without mistakes.
